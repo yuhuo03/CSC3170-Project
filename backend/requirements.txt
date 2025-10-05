@@ -1,0 +1,9 @@
+Flask
+Flask-CORS
+Flask-RESTful
+Flask-JWT-Extended
+Flask-Migrate
+SQLAlchemy
+bcrypt
+flask_sqlalchemy
+marshmallow
